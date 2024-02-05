@@ -1,0 +1,34 @@
+Question : What is python 
+Answer : Python is a programming language.
+Question : What is physics 
+Answer : Physics is the study of matter and energy.
+
+Question : what is nn 
+Answer : There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. However, some common architectures for neural networks include fully connected networks, convolutional neural networks, and recurrent neural networks.
+Question : what is kinematics 
+Answer : Kinematics is the branch of mechanics that deals with the motion of bodies without regard to the forces that cause the motion.
+Question : what is dipole 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : what is smallest unit of distance 
+Answer : The smallest unit of distance is the Planck length, which is about 1.6 x 10-35 meters.
+Question : unit of charges 
+Answer : The unit of electric charge is the coulomb (C).
+Question : if speed = 10 m/s and distance is 200m then what is time it will take 
+Answer : It will take 20 seconds.
+
+
+Question : Can velocity be negative? 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, so it has both magnitude and direction. This means that the velocity of an object can be positive or negative, depending on the direction of the motion.
+Question :  Is kinematics important for JEE? 
+Answer : Kinematics is one of the important topics for JEE. It is important to understand the concepts of kinematics in order to solve problems related to motion.
+
+Question : The data bus for the 8085 MP are unidirectional. 
+Answer : The data bus for the 8085 MP is unidirectional, meaning that data can only flow in one direction.
+Question : What do you understand by microprocessor and OPCODE and OPERAND? 
+Answer : A microprocessor is a computer processor that performs the instructions of a computer program. The OPCODE is the part of the instruction that specifies the operation to be performed, and the OPERAND is the data on which the operation is to be performed.
+Question : what is speed of light 
+Answer : The speed of light is 299,792,458 meters per second.
+Question : what is speed of sound 
+Answer : The speed of sound is about 343 meters per second.
+Question : human sound frequency 
+Answer : The human ear can hear sound frequencies between 20 Hz and 20,000 Hz.

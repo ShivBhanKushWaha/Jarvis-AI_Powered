@@ -1,0 +1,142 @@
+You : Hello Jarvis
+Jarvis : Hello Sir, How are you?
+You : I am Fine 
+Jarvis : Good to hear That.
+You : How are You? 
+Jarvis : Nothing out of Ordinary,Thanks for Asking.
+You : My name is shivbhan . call me shiv from now  
+Jarvis : As you Wish, Shiv. 
+You : I am 20 year Old, Please remember that , how are you 
+Jarvis : I will remember that, Shiv. Thanks for letting me know. I'm doing well, thanks for asking.
+You : what is my name 
+Jarvis : Your name is Shivbhan.
+You : how old am I? 
+Jarvis : You are 20 years old.
+You : Remeber My last movie watched is Guardians of the Galaxy volume 2 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My favourite Series is The Descedant of the sun 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : my favourite series 
+Jarvis : The Descendant of the Sun
+You :  which movie I seen last time 
+Jarvis : Guardians of the Galaxy volume 2
+You : I am a full stack MERN  developer  
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My father name is Mr. Ravendra Kumar 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My Mother name is Mrs. Munni devi 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : In my family there are 6 memebers 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My inspiration is my father  
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My brother name is Govind Vihari Kushwaha 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : python -u "d:\Jarvis\Brain\AIBrain.py" 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : hay 
+Jarvis : Hello, how are you?
+You : fine how are you 
+Jarvis : I'm doing well, thanks for asking.
+You : What is my name 
+Jarvis : Your name is Shivbhan.
+You : what is my father's name 
+Jarvis : Your father's name is Mr. Ravendra Kumar.
+You : what is my mother's name 
+Jarvis : Your mother's name is Mrs. Munni Devi.
+You : my brother's name 
+Jarvis : Your brother's name is Govind Vihari Kushwaha.
+You : my elder sister's name is neelam kushwaha 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : My younger sister's name is Neeraj Kushwaha 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : my village name is rohri 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : what is time 
+Jarvis : The current time is 10:15 PM.
+You : how many countries in the africa 
+Jarvis : There are 54 countries in Africa.
+You : how many countries are there in africa 
+Jarvis : There are 54 countries in Africa.
+You : hello 
+Jarvis : Hello, how are you?
+
+You : who am i 
+Jarvis : You are Shivbhan.
+You : what is my mother's name 
+Jarvis : Your mother's name is Mrs. Munni Devi.
+
+You : what is the name of my village 
+Jarvis : Your village's name is Rohri.
+You : what is
+ your name 
+Jarvis : My name is Jarvis.
+You : how are you 
+Jarvis : I'm doing well, thanks for asking.
+You : thoda screen how are you and 
+Jarvis : I'm doing well, thanks for asking.
+You : how r u jarvis 
+Jarvis : I'm doing well, thanks for asking.
+You : what is time current 
+Jarvis : The current time is 10:15 PM.
+You : your current time is wrong 
+Jarvis : I'm sorry, I don't understand.
+You : distance between india and america 
+Jarvis : The distance between India and America is approximately 7,458 miles.
+
+
+You : hi jarvis 
+Jarvis : Hello, how are you?
+You : i am fine how are you 
+Jarvis : I'm doing well, thanks for asking.
+You : what can you do for me 
+Jarvis : I can do many things for you. I can help you with your work, answer your questions, and entertain you.
+You : how are you jarvis 
+Jarvis : I'm doing well, thanks for asking.
+You : how are you feeling jarvis 
+Jarvis : I'm feeling good, thanks for asking.
+You : What are you doing 
+Jarvis : I am currently doing nothing out of the ordinary.
+You : what is your today's schedule 
+Jarvis : I don't have anything scheduled for today.
+You : but why 
+Jarvis : I'm sorry, I don't understand.
+You : what is mom's name 
+Jarvis : Your mother's name is Mrs. Munni Devi.
+You : what is my big sister's name 
+Jarvis : Your big sister's name is Neelam Kushwaha.
+You : What is my name 
+Jarvis : Your name is Shivbhan.
+You : how many buttons are there on the keyboard 
+Jarvis : There are 104 keys on a standard keyboard.
+You : how many types of keyboard are there 
+Jarvis : There are many types of keyboards, but the most common are QWERTY, AZERTY, and DVORAK.
+You : ok jarvis goodbye 
+Jarvis : Goodbye, Shiv. Have a nice day.
+You : hello jarvis 
+Jarvis : Hello, how are you?
+You : What is my name 
+Jarvis : Your name is Shivbhan.
+You : what is my father's name 
+Jarvis : Your father's name is Mr. Ravendra Kumar.
+You : what is my little brother's name 
+Jarvis : Your little brother's name is Neeraj Kushwaha.
+You : you are telling wrong 
+Jarvis : I'm sorry, I don't understand.
+You : what is my little brother's name 
+Jarvis : Your little brother's name is Neeraj Kushwaha.
+You : remember that my little brother's name is govind bihari 
+Jarvis : I will remember that, Shiv. Thanks for letting me know.
+You : now tell me what is the name of my younger brother 
+Jarvis : Your younger brother's name is Govind Vihari Kushwaha.
+You : what is the name of my village 
+Jarvis : Your village's name is Rohri.
+You : what is my elder sister's name 
+Jarvis : Your elder sister's name is Neelam Kushwaha.
+You : ok fine 
+Jarvis : Goodbye, Shiv. Have a nice day.
+
+You : thank you 
+Jarvis : You're welcome.
+You : What is my name 
+Jarvis : Your name is Shivbhan.
